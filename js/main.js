@@ -1498,6 +1498,8 @@ window.addEventListener('DOMContentLoaded', function (){
 	}
 });
 // == END OF PHOENIX JS ==
+/*
+
 function download(url) {
   window.open(url, '_blank');
 };
@@ -1528,3 +1530,4 @@ $(document).ready(function() {
     $('#subscribe').submit();
   });
 });
+*/
